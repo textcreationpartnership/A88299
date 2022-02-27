@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A divine balsam to cure the bleeding wounds of these dangerous times. Or, The true cause of two grand and heavie iudgements of Almighty God now upon this kingdome. I. The plague, which is incumbent on us: II. The sword, which is imminent over us. The former we feele, the later we feare. With the onely remedy for the cessation of the one, and the prevention of the other. Composed by I. L. and exposed to publick view for the benefit of the republicke.</title>
+            <author>I. L.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88299</idno>
+            <idno type="STC">Wing L23</idno>
+            <idno type="STC">Thomason E112_38</idno>
+            <idno type="STC">ESTC R20385</idno>
+            <idno type="EEBO-CITATION">99863652</idno>
+            <idno type="PROQUEST">99863652</idno>
+            <idno type="VID">115862</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88299)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115862)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E112[38])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A divine balsam to cure the bleeding wounds of these dangerous times. Or, The true cause of two grand and heavie iudgements of Almighty God now upon this kingdome. I. The plague, which is incumbent on us: II. The sword, which is imminent over us. The former we feele, the later we feare. With the onely remedy for the cessation of the one, and the prevention of the other. Composed by I. L. and exposed to publick view for the benefit of the republicke.</title>
+                  <author>I. L.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Robert Wood,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug. 19".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Plague --  England --  London --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115862:1" rendition="simple:additions"/>
+            <p>A DIVINE BALSAM TO CURE The bleeding WOUNDS of theſe dangerous TIMES. <hi>OR,</hi> The true cauſe of two grand and heavie Iudge<g ref="char:EOLhyphen"/>ments of Almighty God now upon this Kingdome.</p>
+            <p n="1">I. The PLAGUE, which is incumbent on us:</p>
+            <p n="2">II. The SWORD, which is imminent over us.</p>
+            <p>
+               <hi>The former we feele, the later we feare.</hi>
+            </p>
+            <p>WITH The onely remedy for the ceſſation of the one, and the prevention of the other.</p>
+            <p>
+               <hi>Compoſed by</hi> I. L. <hi>and expoſed to publick view for the benefit of the Republicke.</hi>
+            </p>
+            <p>London printed for <hi>Robert Wood.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115862:2"/>
+            <pb facs="tcp:115862:2"/>
+            <head>A Divine Balſam to cure the bleeding wounds <hi>of theſe dangerous times.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">P</seg>Hyſitians hold, that there are two cauſes of a peſti<g ref="char:EOLhyphen"/>lence, externall and internall; the infection of the aire, and the corruption of mens humours. But Divines (who tranſcend them in this their judge<g ref="char:EOLhyphen"/>ment) are of another opinion, aſcribing it to the wrath of God, and to the ſin of man; ſo that it is not ſo much <hi>putredo humorum,</hi> as <hi>corruptio morum.</hi> This is <hi>magnum myſterium;</hi> and in this great myſtery we muſt look beyond and a<g ref="char:EOLhyphen"/>above nature, to the God of Nature, acknowledging with the Ae<g ref="char:EOLhyphen"/>gyptian <hi>Magi,</hi> that <hi>Digitus Dei eſt hic,</hi> the finger of God is here. I have ſent peſtilence amongſt you, ſaith the Lord, <hi>Amos</hi> 4 10.</p>
+            <p>From theſe premiſes ſome haply may inferre, that God, (the fountaine of all goodneſſe) is the author of evill, and may inforce the argument by divine writ, as in that of the Prophet, <hi>Is there evil in a City, and the Lord hath not done it?</hi> In which interrogation there is an aſſeveration, and vehement affirmation, that <hi>there is no e<g ref="char:EOLhyphen"/>vill in a City, but the Lord hath done it?</hi> For the underſtanding whereof you muſt diſtinguiſh of evill: for there is <hi>duplex malum,</hi> a double evill, <hi>malum culpae, &amp; malum poenae,</hi> the evill of ſin, and the evill of puniſhment; the evill in us, and the evill on us, or (accor<g ref="char:EOLhyphen"/>ding to S. <hi>Auſtine) malum quod homo facit, &amp; malum quod homo pa<g ref="char:EOLhyphen"/>titur,</hi> the evill that man doth, and the evill that man ſuffereth. Of the firſt God is not the authour, but the laſt. God (who is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<pb facs="tcp:115862:3"/>
+Goodneſſe it ſelfe) would have all men to bee ſaved. How often would I have gathered thee, &amp;c. ſayes our bleſſed Lord? I would, <hi>ſed nolu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſti,</hi> but thou wouldſt not; therefore (the judgement fol<g ref="char:EOLhyphen"/>lows in the ſubſeque<g ref="char:cmbAbbrStroke">̄</g>t words) <hi>Thy habitation is left unto thee deſolate. Nemo laditur, niſi a ſeipſo,</hi> no man is hurt but by himſelfe. <hi>Per ditio tua eſt ex te,</hi> Thy deſtruction is of thy ſelfe. <hi>Intra muros hoſtis,</hi> the enemy is within the walles. There is no greater enemy to man, then man himſelfe is to himſelfe. Though the Divell like a roaring Lion, goeth about continually, ſeeking whom he may devoure, yet he cannot devoure whom hee would. Hee will doe for our ruine what he can; there's his malice: but he cannot doe what he would, that's our comfort. But this is our miſery, that we our ſelves are the onely workers of our owne woe. Mans ſinne is the cauſe of Gods plague, and Gods plague is but the effect of mans ſinne. Sup<g ref="char:EOLhyphen"/>poſe we are now in a ſet battell, the Lord of Hoſts the Generall of the Army, his wrath the trumpet ſummoning and ſounding the A<g ref="char:EOLhyphen"/>larm, our iniquities are his enemies, which have provoked him to make warre againſt us, ſinne is our ſickneſſe, and ſinne the quarrell. It is nothing but the exhalation of our ſinnes, which hath now cauſed the clouds of theſe judgements both on us and over us: Iudgment doth as naturally flow from ſinne, as water from a foun<g ref="char:EOLhyphen"/>taine. It was never known that ſinne went before, and puniſhment did not follow after. If thou doeſt not well, ſin lieth at the doore, Gen. 4.7. Sinne, that is, the puniſhment of ſinne. And hence it is, that ſinne and puniſhment, are all one in the Hebrew tongue, and ſignifie the very ſame. Puniſhment (like a ſwift hunting <hi>Nimrod</hi>) purſueth ſinne; It ſayes, like <hi>Naomi,</hi> I will lodge with thee. Both theſe (like two inſeparable twinnes) live and dye together. Where<g ref="char:EOLhyphen"/>fore is the living man ſorrowfull? It is the <hi>Quaere</hi> of the Prophet, <hi>Lament.</hi> 3.39. and he reſolves the queſtion in the ſame verſe; Man ſuffereth for his ſinne: If men be active in ſinning, they ſhall be paſ<g ref="char:EOLhyphen"/>ſive in mourning. Great ſinnes doe procure great ſorrowes: Why are we ſo diſeaſed but becauſe God is ſo much diſpleaſed? Wee have grievouſly ſinned, therefore are we ſo grievouſly plagued. The grievouſneſſe of our ſinnes doth adde griefe unto our ſoules.</p>
+            <p>
+               <pb facs="tcp:115862:3"/>The elements would bee our attendants, and all the creatures would be our friends, were not we by our iniquities at enmity with our Creator. All ſublunary bodies would be our ſervants, would we but ſerve in holineſſe and righteouſneſſe, the father of Spirits: Heaven would have no quarrell with us, did not we by our impie<g ref="char:EOLhyphen"/>ties, warre with the God of Heaven. Nay, Hell it ſelfe, and all the infernall powers thereof, could have no power over us, were it not for ſinne. Sinne is the onely make-bate between God and Man. It is the wall of ſeparation, that ſeparates us from the favour and grace of God in this life, and from the joyes and glory with God in the life to come. Your tranſgreſſions (ſaith the Prophet <hi>Iſaiah</hi>) have ſeparated between you and your God; they have hid his face from you. Sinne is that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the great gulfe betweene God and Man, ſo great, that it hinders the aſcent of our prayers unto God, and the deſcent of his favours upon us.</p>
+            <p>It is an unſupportable load, the greateſt burthen man can poſſi<g ref="char:EOLhyphen"/>bly undergoe. It is a burthen to the Creator, and it is no leſſe to the Creatures. God complaines by his Prophet, that hee is preſſed with their iniquities, as a Cart that is full of Sheaves: And the whole creation groanes under this intollerable weight, Rom. 8. It was the dolefull ſong of the ſweet Singer of Iſrael, <hi>Iniquitates meae gravatae ſunt ſuper me,</hi> mine iniquities over-burthen me. It made our bleſſed Saviour ſuffer like a curſed ſinner. It made him, who knew no ſinne in himſelfe, to become ſinne for us; him, who was inveſted with a Deity, to aſſume to himſelfe our hu<g ref="char:EOLhyphen"/>manity; him, who was the Lord over all, to become ſubject unto all; him, who was the God of Nature, to yeeld himſelfe unto Na<g ref="char:EOLhyphen"/>ture: It made him groane till he wept, weep till he ſweat, ſweat till he bled, and bleed till he died. Theſe are the wofull effects, and miſerable conſequents of ſinne. And can that ſeeme light and delicious to us, which was ſo heavie and grievous to Chriſt?) This is the lamentable tragedy, and ſad Cataſtrophe of iniquity. <hi>Stipen<g ref="char:EOLhyphen"/>dium peccati eſt mors.</hi> After iniquity hath for a while plaid her part, then death comes upon the ſtage: With death it hath its period here, and without repentance the torments of the ſecond death doe
+<pb facs="tcp:115862:4"/>
+enſue hereafter: which ſecond death is ſo diſmall and dreadful, that from it, and from the terrible torments of it, good Lord ſave and deliver us. It is not onely a naturall death of the body, nor a ſpiri<g ref="char:EOLhyphen"/>tuall death of the ſoule, but an eternall death of both body and ſoul for evermore. Sin is the Divels worke, wicked men are the Divels labourers, or hired ſervants, and the ſtipend or wages for their ſer<g ref="char:EOLhyphen"/>vice, is no better then death here, hell and damnation hereafter. If yee would ſee the guiltineſſe of ſinne, looke upon <hi>Caine;</hi> If yee would behold the beaſtlineſſe of ſin, look upon <hi>Nebuchadnezzar:</hi> If yee would take notice of the ſhame of ſinne, view then <hi>Hamon:</hi> If yee would obſerve the madneſſe of ſinne, conſider <hi>Saul;</hi> and if yee would ſee the end of ſinne, looke upon the Glutton frying in hell, ſo dolefull is the end of ſinne, yea, without end.</p>
+            <p>Theſe are the lamentable effects, and bitter fruits which ſinne produces to us. It is the ground of all our miſeries, and hath wrought all the diſaſters and calamities that wee now ſuſtaine. What hath cauſed the ſword in Ireland, and the plague in Eng<g ref="char:EOLhyphen"/>land, but the iniquity of Ireland, and tranſgreſſion of England? <hi>Toto Mars ſaevit in orbe,</hi> what a havock and vaſtation hath the bloo<g ref="char:EOLhyphen"/>dy hand of warre made in the Chriſtian world? where faire Townes, famous Cities, and flouriſhing Kingdomes, have beene made Stages and Theaters of deſolation and deſtruction for our eyes to behold. Sinne is the cauſe of all theſe miſchiefes. The pale horſe of death goes in triumph through our ſtreets. The peſtilence hath a long time continued and been diſperſed and ſcattered in moſt places amongſt us. Though graves in Church-yards have been ſo peſtered, that there is ſcarce roome left for any more to be buried in; yet ſo inſatiate are they, that they are ſtill gaping for more karkaſſes. Our eares are nocturnall auditors of ſad ſounding paſſing bels, and our eyes are diurnall ſpectators of the common objects of mortality.</p>
+            <p>The ſword is already drawn forth, and at this preſent brandiſhed over our heads. It was the caſe of the inhabitants of Mancheſter in Lancaſhire the laſt weeke, and it may be our owne here in London the next weeke: we heare daily of warres, and rumors of warres, of
+<pb facs="tcp:115862:4"/>
+preparations of Men, Horſes, Armes and Ammunition, both here and elſe where, at home and abroad, both in London and at Yorke: I pray God all theſe may tend to our good (as they are pretended) If any evill by theſe doth befall any of us, it is the evill of our wic<g ref="char:EOLhyphen"/>kedneſſe, which is the juſt cauſe of it.</p>
+            <p>The only remedy againſt theſe evils, that the plague may be ſtai<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d and the ſword ſheath'd, is repentance. Repentance is a <hi>Superſedeas</hi> to all judgement. It is that pretious Balm of <hi>Gilead,</hi> that will cure a ſick-languiſhing land of all her diſeaſes. The onely way to repaire our breaches, is to prepare our ſelves to meet our God. Therefore in the name and feare of God, let us reſolve with our ſelves to re<g ref="char:EOLhyphen"/>pent of our ſins. We have all ſinned from the higheſt to the loweſt, from the richeſt to the pooreſt, from the mightieſt to the meaneſt. The ſins of the Prieſts, &amp; the ſins of the people, have cauſed Gods judgements to light heavy upon us; no man can exempt himſelf, or plead impunity: and therfore as we are all partakers of the common calamity, ſo let us all betake our ſelves to the preſcribed remedy. The axe is now laid to the root of the tree; by the axe is meant Gods judgement, and by the tree is underſtood every man. Now for ought I know the axe of Gods judgment is now laid to the root of the Kingdome, or the root of the Church, or to the roots of the ſeverall individuall members of the Church. Let every true ſubject of the King, &amp; let every ſound member of the Church, bring forth fruit worthy amendment of life. Amendment &amp; reformation is the only way to avert evill, to procure mercy, &amp; to prevent judgement. If we will turn from our ſins, and turne unto our God by a true and timely repentance, God wil turn away his judgements from us, and return in his former mercies unto us. <hi>Return unto me, and I will return unto you,</hi> ſaith the Lord; hee had rather that wee ſhould <hi>redire</hi> then <hi>perire,</hi> return unto him then periſh without him. God delights not in the death of any ſinner, but had rather that he ſhould turne from his wickedneſſe and live. The Lord hath graciouſly promiſed, that when he doth ſend peſtilence amongſt his people, if his people which are called by his name ſhall humble themſelves, pray unto him, ſeek his face, and turn from their evil wayes, he wil then hear
+<pb facs="tcp:115862:5"/>
+from heaven, be mercifull to their ſins, and will heale the land, the ſores of the land are the ſins of the land. Let us unfainedly perform our duty in the former words, and we ſhall certainly obtaine Gods mercy in the latter; let us <hi>ſic plangere commiſſa peccata, ut ne commit<g ref="char:EOLhyphen"/>tamus plangenda,</hi> ſo lament our ſins which we have committed, that we doe not commit thoſe again which we have lamented. Let re<g ref="char:EOLhyphen"/>morſe for our ſins, and divorſe from our ſins, bee expreſſed in our hearty humiliation, and reſolved reformation. This two-fold act muſt be performed by us in our averſion from ſin, and converſion to God, namely, <hi>dolere &amp; cavere; unum, reſpectu praeteriti; alterum, reſpectu futuri:</hi> grieve for our ſins paſt and take heed of ſin for the time to come Thus let us prepare to meet our God, to meet him in the way of his fury to meet him as the Gibeonites met <hi>Ioſuah,</hi> re<g ref="char:EOLhyphen"/>ſolve to doe any thing rather then ſtand it out: for God will have the victory at the laſt; either his will muſt be done by us, or it will be done upon us. A terrible tempeſt at this inſtant is over our heads; in regard whereof the Ark of this Church is toſt with vari<g ref="char:EOLhyphen"/>ous and perilous waves; and the Ship of the State of the Kingdome, is now in great danger. Let us therefore meet him, <hi>lachrymit &amp; pre<g ref="char:EOLhyphen"/>cibus, (lachrymae &amp; preces ſunt arma Chriſtianorum)</hi> with teares in our eyes, and with prayers in our mouthes, with ſorrow in our hearts, with our knees on the ground, and our faces in the duſt. By this means he will preſerve us from ruine, by this means he wil pre<g ref="char:EOLhyphen"/>ſerve this City of London from deſolation, the whole kingdome of England from deſtruction; and will ſave our bodies &amp; ſoules in the day of the appearance of our Lord and Saviour Ieſus Chriſt. If every man would ſweep his owne doore, the ſtreets would ſoon be cleane; and if every man would cleanſe his own hands, purifie his owne heart, purge himſelfe of his particular and perſonall cor<g ref="char:EOLhyphen"/>ruptions, and forſake his <hi>dilecta delicta,</hi> his beloved and boſome ſins, there would then be a wiſhed for alteration, and a bleſſed re<g ref="char:EOLhyphen"/>formation amongſt us; and without all queſtion a moſt happy con<g ref="char:EOLhyphen"/>currence and union between our Royall King and his loyall Par<g ref="char:EOLhyphen"/>liament. In one word, to conclude all, let every one amend one and I pray God amend us all. Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
